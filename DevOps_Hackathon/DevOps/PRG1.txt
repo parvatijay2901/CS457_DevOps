@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello-2
-=======
-Hello- updated
->>>>>>> Branch3
