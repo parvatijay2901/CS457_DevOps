@@ -1,4 +1,4 @@
-# DevOps-Final-Assignments
+# DevOps-Final-Assignment
 Working with Jenkins
 
 ## Assignment 1:
