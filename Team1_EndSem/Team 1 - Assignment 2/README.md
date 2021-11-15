@@ -10,3 +10,5 @@ https://github.com/parvatijay2901/devopsIQ
 6. Create and build projects.
 7. Configure Jenkins to build the project on Slave 1. If the step was successful, Test2 should be built on Slave 2.
 8. Trigger the job using git web-hooks.
+## References: 
+1. https://www.youtube.com/watch?v=XZm-ENx9l9o&t=951s
