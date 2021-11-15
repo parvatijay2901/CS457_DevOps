@@ -1,4 +1,7 @@
 # Jenkins Master Slave pipeline
+## Build project accessed from:
+https://github.com/parvatijay2901/devopsIQ
+## Steps:
 1. Create Jenkins Master-Slave instances on AWS.
 2. Install Jenkins on the master node.
 3. Create the slaves’ nodes on dashboard and copy the agent.jar file to both the slaves.
