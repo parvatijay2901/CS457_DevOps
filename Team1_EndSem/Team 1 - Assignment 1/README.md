@@ -8,3 +8,7 @@
 6.  Install and configure Docker in jenkinsserver.
 7.  Create a new Pipeline for our application in jenkins.
 8.  Building and Testing Pipeline.
+## References: 
+1. https://jhooq.com/kubespray-12-steps-for-installing-a-production-ready-kubernetes-cluster/
+2. https://jhooq.com/ci-cd-jenkins-kubernetes/
+3. https://github.com/rahulwagh/springboot-with-docker
